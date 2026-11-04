@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ecobank logo</title>
+  <desc id="desc">A blue Ecobank wordmark with a gold underline and subtitle.</desc>
+  <rect width="1200" height="420" fill="#f3f3f3"/>
+  <g fill="none" stroke="#0c5f7a" stroke-width="8" stroke-linecap="round">
+    <path d="M155 175 C 215 90, 330 90, 436 108 S 710 110, 820 90 S 980 120, 1040 150"/>
+  </g>
+  <text x="600" y="235" text-anchor="middle" font-family="Avenir, Montserrat, 'Segoe UI', sans-serif" font-size="182" font-weight="800" fill="#0c5f7a" letter-spacing="-8">Ecobank</text>
+  <rect x="200" y="265" width="800" height="8" fill="#E7D86C" rx="2"/>
+  <text x="600" y="345" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="62" fill="#0c5f7a" letter-spacing="-2">The Pan African Bank</text>
+</svg>
