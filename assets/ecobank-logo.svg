@@ -1,11 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Ecobank logo</title>
-  <desc id="desc">A blue Ecobank wordmark with a gold underline and subtitle.</desc>
+  <desc id="desc">Ecobank brand wordmark with the Pan African Bank subtitle</desc>
   <rect width="1200" height="420" fill="#f3f3f3"/>
-  <g fill="none" stroke="#0c5f7a" stroke-width="8" stroke-linecap="round">
-    <path d="M155 175 C 215 90, 330 90, 436 108 S 710 110, 820 90 S 980 120, 1040 150"/>
+
+  <g transform="translate(0,8)">
+    <path d="M130 155 C 210 95, 315 82, 460 102 C 580 118, 710 118, 820 96 C 960 68, 1038 98, 1088 122" fill="none" stroke="#0a607a" stroke-width="8" stroke-linecap="round"/>
+
+    <text x="600" y="238" text-anchor="middle"
+          font-family="Avenir Next, Montserrat, Segoe UI, Arial, sans-serif"
+          font-weight="800" font-size="180" letter-spacing="-8" fill="#0a607a">Ecobank</text>
+
+    <rect x="188" y="262" width="824" height="8" fill="#e5d765" rx="2"/>
+
+    <text x="600" y="345" text-anchor="middle"
+          font-family="Georgia, Times New Roman, serif"
+          font-style="italic" font-size="68" fill="#0a607a" letter-spacing="-2">The Pan African Bank</text>
   </g>
-  <text x="600" y="235" text-anchor="middle" font-family="Avenir, Montserrat, 'Segoe UI', sans-serif" font-size="182" font-weight="800" fill="#0c5f7a" letter-spacing="-8">Ecobank</text>
-  <rect x="200" y="265" width="800" height="8" fill="#E7D86C" rx="2"/>
-  <text x="600" y="345" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="62" fill="#0c5f7a" letter-spacing="-2">The Pan African Bank</text>
 </svg>
